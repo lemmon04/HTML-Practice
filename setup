@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<html lang="en-US">
+
+<head>
+<style>
+body, html {height: 100%; margin: 0;}
+.bg {background-image: url(LakeTahoe.jpg); height: 100%; background-position: center; bacground-repeat: no-repeat; background-size: cover}
+
+.text{text-align: center; position: absolute; top: 40%; left: 50%; color: #000000;}
+
+.text button {border: none;outline: 0; display: inline-block;padding: 10px 20px; color: white; background-color: #555;text-align: center;cursor: pointer;}
+.text button:hover{background-color: #a0a6af; color: white;}
+
+</style>
+</head>
+<body>
+<div class="bg">
+	<div class="text">
+		<a href="file:///C:/Michael/website.html#bookmark" class="button">
+			<button>Enter Site</button>
+		</a>
+		
+	</div>
+</div>
+</body>
+
+
+
+</html>
